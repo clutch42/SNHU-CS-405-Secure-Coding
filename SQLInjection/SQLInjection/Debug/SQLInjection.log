@@ -1,0 +1,4 @@
+﻿  SQLInjection.cpp
+C:\Users\clutc\source\repos\SQLInjection\SQLInjection\SQLInjection\SQLInjection.cpp(191,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  sqlite3.c
+  SQLInjection.vcxproj -> C:\Users\clutc\source\repos\SQLInjection\SQLInjection\Debug\SQLInjection.exe

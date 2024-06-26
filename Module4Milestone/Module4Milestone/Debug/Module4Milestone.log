@@ -1,0 +1,7 @@
+﻿  test.cpp
+C:\Users\clutc\source\repos\Module4Milestone\Module4Milestone\test.cpp(17,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\clutc\source\repos\Module4Milestone\Module4Milestone\test.cpp(309,5): warning C4834: discarding return value of function with [[nodiscard]] attribute
+C:\Users\clutc\source\repos\Module4Milestone\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.7\build\native\include\gtest\gtest.h(1579,1): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\clutc\source\repos\Module4Milestone\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.7\build\native\include\gtest\gtest.h(1581,1): warning C4018: '>': signed/unsigned mismatch
+C:\Users\clutc\source\repos\Module4Milestone\packages\Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.1.7\build\native\include\gtest\gtest.h(1577,1): warning C4018: '<': signed/unsigned mismatch
+  Module4Milestone.vcxproj -> C:\Users\clutc\source\repos\Module4Milestone\Debug\Module4Milestone.exe

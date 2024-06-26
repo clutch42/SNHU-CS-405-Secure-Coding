@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  test.cpp
+C:\Users\clutc\source\repos\Module4Milestone\Module4Milestone\test.cpp(17,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Module4Milestone.vcxproj -> C:\Users\clutc\source\repos\Module4Milestone\x64\Debug\Module4Milestone.exe

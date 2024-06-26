@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\clutc\\source\\repos\\CS_405_Encryption\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08C6CDAF-821E-4116-A32B-73111FFC5F78}|CS_405_Encryption\\CS_405_Encryption.vcxproj|C:\\Users\\clutc\\source\\repos\\CS_405_Encryption\\CS_405_Encryption\\CS_405_Encryption.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{08C6CDAF-821E-4116-A32B-73111FFC5F78}|CS_405_Encryption\\CS_405_Encryption.vcxproj|solutionrelative:CS_405_Encryption\\CS_405_Encryption.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C6CDAF-821E-4116-A32B-73111FFC5F78}|CS_405_Encryption\\CS_405_Encryption.vcxproj|C:\\Users\\clutc\\source\\repos\\CS_405_Encryption\\CS_405_Encryption\\inputdatafile.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{08C6CDAF-821E-4116-A32B-73111FFC5F78}|CS_405_Encryption\\CS_405_Encryption.vcxproj|solutionrelative:CS_405_Encryption\\inputdatafile.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "inputdatafile.txt",
+              "DocumentMoniker": "C:\\Users\\clutc\\source\\repos\\CS_405_Encryption\\CS_405_Encryption\\inputdatafile.txt",
+              "RelativeDocumentMoniker": "CS_405_Encryption\\inputdatafile.txt",
+              "ToolTip": "C:\\Users\\clutc\\source\\repos\\CS_405_Encryption\\CS_405_Encryption\\inputdatafile.txt",
+              "RelativeToolTip": "CS_405_Encryption\\inputdatafile.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-06T14:38:49.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CS_405_Encryption.cpp",
+              "DocumentMoniker": "C:\\Users\\clutc\\source\\repos\\CS_405_Encryption\\CS_405_Encryption\\CS_405_Encryption.cpp",
+              "RelativeDocumentMoniker": "CS_405_Encryption\\CS_405_Encryption.cpp",
+              "ToolTip": "C:\\Users\\clutc\\source\\repos\\CS_405_Encryption\\CS_405_Encryption\\CS_405_Encryption.cpp",
+              "RelativeToolTip": "CS_405_Encryption\\CS_405_Encryption.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-05T22:23:18.516Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
