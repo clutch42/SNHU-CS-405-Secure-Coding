@@ -1,0 +1,4 @@
+HelloWorld.a1:Debug|Win32:C:/Users/clutc/source/repos/HelloWorld/HelloWorld/HelloWorld.cpp
+HelloWorld.a2:Release|Win32:C:/Users/clutc/source/repos/HelloWorld/HelloWorld/HelloWorld.cpp
+HelloWorld.a3:Debug|x64:C:/Users/clutc/source/repos/HelloWorld/HelloWorld/HelloWorld.cpp
+HelloWorld.a4:Release|x64:C:/Users/clutc/source/repos/HelloWorld/HelloWorld/HelloWorld.cpp

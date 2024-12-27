@@ -1,0 +1,4 @@
+CS 405 Static Code Analysis.a1:Debug|Win32:C:/Users/clutc/source/repos/CS 405 Static Code Analysis/CS 405 Static Code Analysis/CS 405 Static Code Analysis.cpp
+CS 405 Static Code Analysis.a2:Release|Win32:C:/Users/clutc/source/repos/CS 405 Static Code Analysis/CS 405 Static Code Analysis/CS 405 Static Code Analysis.cpp
+CS 405 Static Code Analysis.a3:Debug|x64:C:/Users/clutc/source/repos/CS 405 Static Code Analysis/CS 405 Static Code Analysis/CS 405 Static Code Analysis.cpp
+CS 405 Static Code Analysis.a4:Release|x64:C:/Users/clutc/source/repos/CS 405 Static Code Analysis/CS 405 Static Code Analysis/CS 405 Static Code Analysis.cpp
